@@ -1,0 +1,1 @@
+{ "name": "@marketplace-types/types", "version": "0.0.1", "types": "src/schemas.ts", "private": true }

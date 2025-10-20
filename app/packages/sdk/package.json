@@ -1,0 +1,1 @@
+{ "name": "@marketplace-sdk/sdk", "version": "0.0.1", "main": "dist/index.cjs.js", "module": "dist/index.es.js", "types": "dist/index.d.ts", "private": true }
